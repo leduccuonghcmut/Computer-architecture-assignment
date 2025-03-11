@@ -42,7 +42,5 @@ This assignment focuses on implementing **32-bit signed integer multiplication**
 - **Computer Organization & Design** – David A. Patterson & John L. Hennessy
 - **MARS MIPS Simulator** – [MARS Documentation](http://courses.missouristate.edu/KenVollmar/mars/)
 
----
-💡 **Author:** [Your Name]  
-📅 **Last Updated:** `$(date +"%Y-%m-%d")`
+
 
