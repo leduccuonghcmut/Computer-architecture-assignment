@@ -1,18 +1,9 @@
-# 🖥️ Computer Architecture Assignment - 32-bit Integer Multiplication
+# Computer Architecture Assignment - 32-bit Integer Multiplication
 
-## 📌 Overview
+## Overview
 This assignment focuses on implementing **32-bit signed integer multiplication** using MIPS assembly. The goal is to apply the multiplication algorithm from the textbook (**Figure 3.4 or 3.5**) without using built-in MIPS multiplication instructions.
 
-<!-- ## 📂 Project Structure
-```
-📂 CO2008_Assignment1
-│── 📁 src/            # MIPS Assembly source code
-│── 📁 input/          # Input binary file (INT2.BIN)
-│── 📁 output/         # Sample output results
-│── 📄 README.md       # Documentation
-``` -->
-
-## 🛠 Implementation Details
+## Implementation Details
 - **Platform:** MARS MIPS 4.5 Simulator  
 - **Programming Language:** MIPS Assembly  
 - **Key Features:**
@@ -21,12 +12,7 @@ This assignment focuses on implementing **32-bit signed integer multiplication**
   - Stores results in registers following MIPS calling conventions.
   - Displays intermediate steps for verification.
 
-## 🚀 How to Run
-1. **Load the project in MARS MIPS Simulator**
-2. **Run the program** to read input and perform multiplication
-3. **Verify results** by checking printed output and expected values
-
-## 📜 Submission Requirements
+## Submission Requirements
 - **Source Code:** Must be well-commented and follow MIPS conventions.
 - **Report:**
   - Explanation of implementation approach.
@@ -38,9 +24,6 @@ This assignment focuses on implementing **32-bit signed integer multiplication**
   - MIPS assembly source file (`Mn###.asm`).
   - Additional supporting files if needed.
 
-## 📚 References
-- **Computer Organization & Design** – David A. Patterson & John L. Hennessy
-- **MARS MIPS Simulator** – [MARS Documentation](http://courses.missouristate.edu/KenVollmar/mars/)
 
 
 
