@@ -1,0 +1,14 @@
+# Ignore Linux kernel build outputs
+*.o
+*.ko
+*.mod.*
+*.order
+*.symvers
+*.cmd
+.tmp_versions/
+*.markers
+*.gcno
+*.gcda
+Module.symvers
+modules.order
+*.identifi
